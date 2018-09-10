@@ -1,6 +1,7 @@
 # Introduction
-This repo is being used to practice branching
-Instructions given from CS2103T
+This repository is being used to practise branching
+Instructions given from CS2103T module coordinator on the module website
+This exercise is also used to practise managing pull requests(PR)
 
 
 # [Sample Repo] PR Practice
